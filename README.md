@@ -43,5 +43,5 @@ dnn.train(X_train,Y_train.reshape(Y_train.shape[0],1),batch_size=32,no_epochs=50
 # testing our trained model
 Y_pred = dnn.predict(X_test)
 print ("MAE")
-print (dnn.accuracy_mae(Y_test.reshape(Y_test.shape[0],1).astype(np.float32),Y_pred))
+print (dnn.accuracy_mae(Y_test.reshape(Y_test.shape[0],1),Y_pred))
 ```
