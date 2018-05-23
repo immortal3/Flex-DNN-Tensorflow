@@ -1,10 +1,10 @@
 # Flex-DNN-Tensorflow
 
-Flexible Deep Neural Network based on tensorflow core api
+### Flexible Deep Neural Network based on tensorflow core api
 
-### Flex-DNN has ability to create simple Deep Neural Network for classification and regression.It's created as part of learning Tensorflow core api.
+Flex-DNN has ability to create simple Deep Neural Network for classification and regression.It's created as part of learning Tensorflow core api.
 
-### Flex-DNN can be used to do some simple task like regression and classification very fast.
+Flex-DNN can be used to do some simple task like regression and classification very fast.
 
 
 Example:
